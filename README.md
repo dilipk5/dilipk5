@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dilipk5
-- 👀 I’m interested in Artificial intelligence and Data science
+- 👀 I’m interested in Artificial intelligence and Cyber Security
 - 🌱 I’m currently learning Python and c++
 - 💞️ I’m looking to collaborate on projects related to AI and data science 
 - 📫 How to reach me gmail:dilipsc02@gmail.com or https://www.linkedin.com/in/dilipk5/
