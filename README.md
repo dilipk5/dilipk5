@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## 📊 Languages Used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilipk5&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilipk5&layout=compact&theme=tokyonight)
