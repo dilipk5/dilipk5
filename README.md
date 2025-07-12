@@ -1,5 +1,13 @@
 ## Hi there 
 
+Aspiring red teamer diving deep into the offensive side of cybersecurity. I’m currently sharpening my skills in:
+
+- 🕸️ Web Application Security
+- 🧠 Active Directory Attacks & Network Penetration Testing  
+- 🧰 Building tools, automating recon, and simulating real-world adversary behavior
+
+📍 Learning through platforms like TryHackMe, Hack The Box, and real CTFs  
+🔐 Focused on mastering post-exploitation, lateral movement, and red team tradecraft 
 <!--
 **dilipk5/dilipk5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
