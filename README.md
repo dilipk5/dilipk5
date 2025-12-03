@@ -1,9 +1,9 @@
-## 🚀 Cybersecurity Student  
+# Cybersecurity Student  
 Passionate about pentesting, cloud security and AI-driven automation.
 
 ---
 
-### 🛡️ Core Skills
+## Core Skills
 ![Network Security](https://img.shields.io/badge/Network_Security-0052CC?style=for-the-badge&logo=protocols.io&logoColor=white)
 ![Pentesting](https://img.shields.io/badge/Pentesting-5C6BC0?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Cloud Security](https://img.shields.io/badge/Cloud_Security-3F8EFC?style=for-the-badge&logo=icloud&logoColor=white)
@@ -14,7 +14,7 @@ Passionate about pentesting, cloud security and AI-driven automation.
 
 ---
 
-### ☁️ Cloud & DevOps
+## Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -22,7 +22,7 @@ Passionate about pentesting, cloud security and AI-driven automation.
 
 ---
 
-### 💻 Languages
+## Languages
 ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-2E7D32?style=for-the-badge&logo=gnubash&logoColor=white)
 ![C](https://img.shields.io/badge/C-0A84FF?style=for-the-badge&logo=c&logoColor=white)
@@ -30,12 +30,12 @@ Passionate about pentesting, cloud security and AI-driven automation.
 
 ---
 
-### 📊 GitHub Stats  
+## GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilipk5&layout=compact&theme=tokyonight"/>
 
 ---
 
-### 🔗 Profiles
+## Profiles
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dilipk5)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/xdaemon)
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2019421)
