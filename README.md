@@ -26,7 +26,7 @@ Passionate about pentesting, cloud security and AI-driven automation.
 ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-2E7D32?style=for-the-badge&logo=gnubash&logoColor=white)
 ![C](https://img.shields.io/badge/C-0A84FF?style=for-the-badge&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-F4A300?style=for-the-badge&logo=linux&logoColor=white)
+<!--  ![Linux](https://img.shields.io/badge/Linux-F4A300?style=for-the-badge&logo=linux&logoColor=white) -->
 
 ---
 
