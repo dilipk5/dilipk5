@@ -45,16 +45,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilipk5&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dilipk5&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
+  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dilipk5&theme=radical&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dilipk5&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=dilipk5&theme=radical&no-frame=true&row=1&column=6&margin-w=10)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dilipk5&color=blueviolet&style=flat-square&label=Profile+Views)
 
