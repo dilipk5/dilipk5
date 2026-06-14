@@ -64,7 +64,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dilipk5)
 [![Blog](https://img.shields.io/badge/Blog-0xdaemon-FF5722?style=for-the-badge&logo=bookstack&logoColor=white)](https://0xdaemon.bearblog.dev/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/xdaemon)
-[![HTB](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2019421)
+[![HTB](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/public/users/2019421)
 
 </div>
 
